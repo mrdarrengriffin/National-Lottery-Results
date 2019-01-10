@@ -1,0 +1,11 @@
+{
+  "name": "lotto-results",
+  "version": "1.0.0",
+  "description": "Utilizing the XML API for the National Lottery to display the latest results",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Darren Griffin",
+  "license": "ISC"
+}
